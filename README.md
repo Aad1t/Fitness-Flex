@@ -1,0 +1,3 @@
+# Fitness-Flex
+
+Hey, my name is Aadit Gupta and I recently worked on this project, called Fitness Flex at Hack the North 2022 with two other teammates. It is an AI trainer created using python as back-end and flask, HTML, CSS and JavaScript as front-end. It tells one about the angles their body makes while performing any exercise and how many reps they perform while doing the exercise in front of a web camera. It has a meter to determine whether you are fulling extending your body part in order to do the exercise, hence helping you determine whether you are doing the exercise in a correct manner. This replaces the need to hire a physical trainer, hence saving people's money and time.
